@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+section {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: blueviolet;
+}
+section div{
+    width:30%;
+    padding:20px;
+    border: 1px solid red;
+    
+    
+}
+.Flex_1{
+    background:yellow;
+}
+.Flex_2{
+    background:red;
+}
+.Flex_3{
+    background: green;
+}
